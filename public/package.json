@@ -1,0 +1,9 @@
+{
+  "name": "f1-world-tour-online",
+  "version": "1.0.0",
+  "description": "Online lobbies and shared ghosts for F1 World Tour",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
